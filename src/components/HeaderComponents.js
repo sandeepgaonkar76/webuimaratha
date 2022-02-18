@@ -97,6 +97,7 @@ componentDidMount(){
           
                                                 {/* <li><Link to="/search-result">Search Profiles</Link></li> */}
                                                 <li><Link to="/contact">Contact</Link></li>
+						<li><Link to="/adminuser">Admin</Link></li>
                                                 </ul>
      
     </Nav>
